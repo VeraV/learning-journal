@@ -1,0 +1,6 @@
+name,department,salary,years_exp,remote
+Alice,Engineering,75000,5,True
+Bob,Sales,52000,2,False
+Charlie,Engineering,82000,8,True
+Diana,HR,61000,3,False
+Eve,Sales,54000,1,True
